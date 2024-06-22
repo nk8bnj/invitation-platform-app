@@ -27,7 +27,9 @@ export default function InvitationPage() {
 
   useEffect(() => {
     if (id && id !== 'new') {
-      const existingInvitation = invitations.find(invitation => invitation.id === id);
+      const existingInvitation = invitations.find(
+        invitation => invitation.id === id,
+      );
       if (existingInvitation) {
         setInvitation(existingInvitation);
       }
