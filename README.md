@@ -1,6 +1,6 @@
 # Invitation Platform App
 
-- [DEMO](https://nk8bnj.github.io/invitation-platform-app/)
+- [DEMO](https://invitation-platform-app.vercel.app/)
 
 ## Project Overview
 
